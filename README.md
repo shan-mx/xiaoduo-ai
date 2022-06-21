@@ -1,4 +1,4 @@
-# 欢迎使用XiaoDuo.ai！
+# XiaoDuo.ai🐬
 
 ## 简介
 ### 关于XiaoDuo.ai:
