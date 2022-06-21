@@ -1,1 +1,1 @@
-# xiaoduo_ai
+# XiaoDuo.ai
